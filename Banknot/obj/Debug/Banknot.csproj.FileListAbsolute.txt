@@ -1,0 +1,7 @@
+C:\Users\X\Desktop\BPI\Banknot\Banknot\Banknot\bin\Debug\Banknot.exe.config
+C:\Users\X\Desktop\BPI\Banknot\Banknot\Banknot\bin\Debug\Banknot.exe
+C:\Users\X\Desktop\BPI\Banknot\Banknot\Banknot\bin\Debug\Banknot.pdb
+C:\Users\X\Desktop\BPI\Banknot\Banknot\Banknot\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\X\Desktop\BPI\Banknot\Banknot\Banknot\obj\Debug\Banknot.exe
+C:\Users\X\Desktop\BPI\Banknot\Banknot\Banknot\obj\Debug\Banknot.pdb
+C:\Users\X\Desktop\BPI\Banknot\Banknot\Banknot\obj\Debug\Banknot.csprojResolveAssemblyReference.cache
